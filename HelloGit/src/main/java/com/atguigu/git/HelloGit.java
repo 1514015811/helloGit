@@ -5,6 +5,7 @@ public class HelloGit {
         System.out.println("hello git");
         System.out.println("更新1");
         System.out.println("创建分支");
+        System.out.println("主干添加");
     }
     public String sayHello(String name){
         return "Hello"+name;
